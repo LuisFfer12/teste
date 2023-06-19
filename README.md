@@ -8,3 +8,6 @@
 - `cd teste`
 - `docker compose up -d`
 - `mvn spring-boot:run`
+
+## URL's
+`http://localhost:9090/swagger-ui/index.html`
